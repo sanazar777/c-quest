@@ -1,0 +1,8 @@
+#include<iostream>
+#include<iomanip>
+using namespace std;
+int main(){
+double san = 2.71828;
+string p = "sanyn drobdaky  2 sany! ";
+cout << fixed << setprecision(1)<<p <<endl << san<< endl;
+}
