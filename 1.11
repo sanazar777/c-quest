@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+string name;
+string _name = "Komandanyzyn adyny yazyn ";
+string at = " ol cempion!";
+cout<<_name<<endl;
+cin>> name;
+cout<<name<<at<<endl;
+}
