@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main(){
+string name;
+string at = "adynyzy girizin!";
+string hi = "salam, ";
+string habar = "!";
+cout<<at<<endl;
+cin>>name;
+cout<<endl<<hi<<name<<habar<<endl;
+	}
