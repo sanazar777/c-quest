@@ -1,1 +1,1 @@
-# c-quest
+# c++-quest
