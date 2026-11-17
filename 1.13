@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main(){
+ int san;
+ cout<< "Sany girizin " <<endl;
+ cin>>san;
+ cout<<"Bizin girizen sanymyz "<<san<< " yzyndaky san-"<< san+1<<endl;
+cout<<"Bizin girizen sanymyz "<<san<< " Onundaki san-"<< san-1<<endl; 
+}
