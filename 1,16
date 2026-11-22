@@ -1,0 +1,14 @@
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int t, v, x, y;
+
+    cin >> t >> v >> x >> y;
+
+    cout << "5 10\t100 " << t << "\t" << x << " 25" << endl;
+    cout << "7 sm\t1949 " << v << "\t" << x << " " << y << endl;
+
+    return 0;
+}
